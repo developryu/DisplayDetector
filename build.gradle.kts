@@ -43,5 +43,5 @@ dependencies {
 
     implementation("androidx.window:window:1.3.0")
     androidTestImplementation("androidx.window:window-testing:1.3.0")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
+    implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.8.6")
 }
